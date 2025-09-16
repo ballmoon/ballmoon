@@ -1,68 +1,65 @@
-## 🧑‍💻 Senior Blockchain Engineer | Web3 Integrations | DeFi & Multi-Chain Architect
+### `whoami`
 
-### 👋 About Me
+Senior Blockchain Engineer
+Multi-chain architect • Smart-contract artisan • Gas whisperer
 
-I am a **Senior Blockchain Developer** with **4+ years of production-grade blockchain experience**, passionate about building scalable, secure, and user-centric decentralized applications.
-I specialize in **multi-chain Web3 integrations**, **smart contract architecture**, and **on-chain identity & reputation systems**, with a strong focus on **security, scalability, and interoperability**.
-
----
-
-### ⚡ Core Competencies
-
-* **Smart Contract Engineering:** Solidity expert with deep knowledge of EVM, complex contract design, upgradeability, and gas optimization.
-* **Multi-Chain Development:** Hands-on experience with **Ethereum**, **Base**, **Polygon**, and **Solana** ecosystems.
-* **Layer 2 Solutions:** Skilled in implementing **Optimism**, **Arbitrum**, **Base**, and other L2 scaling protocols.
-* **Web3 Integrations:** Advanced experience with **Web3.js**, **Ethers.js**, wallet integrations (**MetaMask**, **WalletConnect**, **Phantom**, **Rainbow**), and blockchain API development.
-* **DeFi Protocols & Tokenomics:** Expertise in **Uniswap**, **Aave**, **Compound**, ERC standards (**ERC-20, ERC-721, ERC-1155**), SPL tokens, and stablecoin integrations.
+I write code that travels across **Ethereum**, **Base**, **Solana**, **Polygon**
+to create **identity**, **reputation**, and **value** where no single chain rules.
 
 ---
 
-### 🛠️ Tech Stack
+### `stack`
 
-| Category           | Tools / Frameworks                                                                    |
-| ------------------ | ------------------------------------------------------------------------------------- |
-| **Languages**      | Solidity, JavaScript/TypeScript, Rust (Solana), Python                                |
-| **Frameworks**     | Hardhat, Foundry, Truffle                                                             |
-| **Libraries**      | OpenZeppelin, The Graph (GraphQL), IPFS/Arweave                                       |
-| **Infrastructure** | EVM, Layer 2 (Optimism, Arbitrum, Base), Cross-Chain Bridges                          |
-| **Security**       | Smart Contract Auditing, Multi-Signature Wallets, Timelock Mechanisms, MEV Protection |
-| **APIs**           | RESTful APIs, WebSockets, Blockchain RPC Endpoints                                    |
-
----
-
-### 🔑 Key Expertise
-
-* ✅ **Smart Contract Architecture**: Identity verification, attestation systems, on-chain credentialing, and reputation scoring.
-* ✅ **Cross-Chain Bridges & Wallets**: Multi-chain wallet integration, escrow systems, cross-chain attestations, and reputation portability.
-* ✅ **Token Engineering**: Tokenized bounty/referral systems, staking & yield farming mechanisms, stablecoin payment rails.
-* ✅ **Zero-Knowledge Proofs**: zk-SNARKs/zk-STARKs integration for privacy-preserving authentication (experience in proof verification).
-* ✅ **Account Abstraction (ERC-4337)**: Gasless transactions, multi-signature wallet automation, and advanced account logic.
+```
+> chains:      Ethereum | Base | Polygon | Solana
+> languages:   Solidity | Rust | TypeScript
+> protocols:   L2 (Optimism/Arbitrum/Base) | DeFi (Uniswap/Aave/Compound)
+> standards:   ERC-20 | ERC-721 | ERC-1155 | SPL
+> extras:      zk-SNARKs | Account Abstraction (ERC-4337) | MEV Defense
+```
 
 ---
 
-### 🌐 Highlighted Projects
+### `recent_commits`
 
-* **Cross-Chain Identity & Reputation System** – Built decentralized attestation and reputation scoring contracts with **Solidity** + **The Graph**, enabling on-chain professional identity verification.
-* **Layer 2 Optimized Escrow & Payments** – Architected a multi-chain escrow system with **Optimism**/**Arbitrum** integrations to reduce gas costs by 70%.
-* **DeFi Yield Aggregator** – Designed and deployed smart contracts integrating **Uniswap v3** and **Aave** to enable automated liquidity provisioning and yield strategies.
-
----
-
-### 📈 Current Focus
-
-* Expanding zero-knowledge proof integrations for privacy-first identity solutions.
-* Building gas-efficient, cross-chain Layer 2 infrastructures.
-* Researching **MEV protection**, **transaction optimization**, and **account abstraction** for next-gen Web3 apps.
+* 🔗 **Cross-Chain Reputation Engine** – verifiable identity + portable scores
+* 💸 **Gas-Optimized Escrow Network** – stablecoin settlement with L2 magic
+* 🎯 **Tokenized Bounty Protocol** – automated rewards & referrals
 
 ---
 
-### 📫 Connect With Me
+### `mission`
 
-* **GitHub:** [github.com/ballmoon](https://github.com/ballmoon)
-* **Portfolio:** [portfolio](https://github.com/ballmoon)
+> *to make blockchains disappear into pure experience*
+> people see value, not networks
+> credentials, not chains
+> trust, not buzzwords
 
 ---
 
-> ⚡ *“Bridging decentralized networks to create scalable, secure, and user-driven blockchain ecosystems.”*
+### `now_loading`
+
+* 🕵️‍♂️ Privacy-first identity using **zero-knowledge proofs**
+* ⚡ Gasless interactions via **account abstraction**
+* 🛡️ MEV-aware transaction routing
+
+---
+
+### `connect`
+
+[GitHub](https://github.com/ballmoon) •
+[LinkedIn](https://github.com/ballmoon) •
+
+---
+
+```md
+// next block is yours to fork
+commit --sign off --message "Build the open future"
+```
+
+---
+
+🪐 *Code is coordination. Chains are just the substrate.*
+Let’s build what comes **after** the blockchain hype.
 
 ---
